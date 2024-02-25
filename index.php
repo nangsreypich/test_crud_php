@@ -29,6 +29,7 @@
                <th scope="col">Price</th>
                <th scope="col">Note</th>
                <th scope="col">Image</th>
+               <th scope="col">Image</th>
                <th scope="col">Action</th>
             </tr>
          </thead>
